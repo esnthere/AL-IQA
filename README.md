@@ -1,3 +1,3 @@
-# AL-IQA：Label-Minimized Active Learning for No-Reference Image Quality Assessment
+# AL-IQA
 Source code will be released after the paper is accepted.
 
