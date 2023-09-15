@@ -1,2 +1,3 @@
 # AL-IQA
-The
+Source code will be released after the paper is accepted.
+
