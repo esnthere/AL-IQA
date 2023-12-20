@@ -15,14 +15,15 @@ This is the training example of AL-IQA on the LIVEW dataset, which is small enou
 
 ## If you like this work, please cite:
 
-{   
-     author={Song, Tianshu and Li, Leida and Wu, Jinjian and Yang, Yuzhe and Li, Yaqian and Guo, Yandong and Shi, Guangming},  
-     journal={IEEE Transactions on Multimedia},   
-     title={Knowledge-Guided Blind Image Quality Assessment With Few Training Samples},   
-     year={2023},
-     volume={25},  
-     pages={8145-8156},
-     doi={10.1109/TMM.2022.3233244}   
-  }
+@ARTICLE{AL-IQA,
+  author={Song, Tianshu and Li, Leida and Cheng, Deqiang and Chen, Pengfei and Wu, Jinjian},
+  
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  
+  title={Active Learning-Based Sample Selection for Label-Efficient Blind Image Quality Assessment}, 
+  
+  year={2023, Early Access},  
+  
+  doi={10.1109/TCSVT.2023.3341611}}
 
 
