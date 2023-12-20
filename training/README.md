@@ -8,9 +8,13 @@ This is the training example of AL-IQA on the LIVEW dataset, which is small enou
 ## 2. Training the model
 
    Run'**save_first_vote.py**' to save predicted scores for calculating uncertainty and then run '**livew_rt25_first_step.py**' to perform the first round selection and train the model for ther first round.
+  
    Run'**save_second_vote.py**' to save predicted scores for calculating uncertainty and then run '**livew_rt25_second_step.py**' to perform the second round selection and train the model for the second round.
-    Run'**save_third_vote.py**' to save predicted scores for calculating uncertainty and then run '**livew_rt25_third_step.py**' to perform the third round selection and train the model for the third round.
-    Finally, run '**livew_rt25_fourth_step_ftencoders.py**' to fine-tune the model.
+   
+   Run'**save_third_vote.py**' to save predicted scores for calculating uncertainty and then run '**livew_rt25_third_step.py**' to perform the third round selection and train the model for the third round.
+    
+   Finally, run '**livew_rt25_fourth_step_ftencoders.py**' to fine-tune the model.
+   
    The training example can be seen from '**run_livew_rt25.ipynb**' .
 
 ## If you like this work, please cite:
