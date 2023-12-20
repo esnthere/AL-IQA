@@ -3,7 +3,6 @@ This is the source code for [AL-IQA: Active Learning-Based Sample Selection for 
 
 ## Dependencies and Installation
 Pytorch: 1.8.1  
-timm: 0.3.2  
 CUDA: 10.2  
 
 ## For test:
