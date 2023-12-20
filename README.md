@@ -1,5 +1,5 @@
 # AL-IQA: Active Learning-Based Sample Selection for Label-Efficient Blind Image Quality Assessment
-This is the source code for [AL-IQA: Active Learning-Based Sample Selection for Label-Efficient Blind Image Quality Assessment]([https://ieeexplore.ieee.org/document/10003665](https://ieeexplore.ieee.org/document/10355923)).![KG-IQA Framework](https://github.com/esnthere/AL-IQA/blob/main/framework.png)
+This is the source code for [AL-IQA: Active Learning-Based Sample Selection for Label-Efficient Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/10355923).![KG-IQA Framework](https://github.com/esnthere/AL-IQA/blob/main/framework.png)
 
 ## Dependencies and Installation
 Pytorch: 1.8.1  
