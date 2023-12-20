@@ -21,7 +21,8 @@ The training code can be available at the 'training' folder.
 
 ## If you like this work, please cite:
 
-@ARTICLE{AL-IQA,
+{
+
   author={Song, Tianshu and Li, Leida and Cheng, Deqiang and Chen, Pengfei and Wu, Jinjian},
   
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
@@ -30,7 +31,9 @@ The training code can be available at the 'training' folder.
   
   year={2023, Early Access},  
   
-  doi={10.1109/TCSVT.2023.3341611}}
+  doi={10.1109/TCSVT.2023.3341611}
+  
+}
 
   
 ## License
