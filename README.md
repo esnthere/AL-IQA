@@ -10,9 +10,9 @@ CUDA: 10.2
    To ensure high speed, save images and lables of each dataset with 'mat' files. Only need to run '**data_preparation_example.py**' once for each dataset.
    
 ### 2. Load pre-trained weight for test  
-   The models pre-trained on KonIQ-10k with 5%, 10%, 25%, 80% samples are released. The dataset are randomly splitted several times during training, and each released model is obtained from the first split (numpy. random. seed(1)). The files in clip are obtained from open accessed source code of [CooP]([https://github.com/facebookresearch/deit](https://github.com/KaiyangZhou/CoOp)) . 
+   The models pre-trained on KonIQ-10k with 5%, 10%, 25%, 80% samples are released. The dataset are randomly splitted several times during training, and each released model is obtained from the first split (numpy. random. seed(1)). The files in clip are obtained from open accessed source code of [CoOP]([https://github.com/facebookresearch/deit](https://github.com/KaiyangZhou/CoOp)) . 
    
-   The pre-trained models can be downloaded from: [Pre-trained models](https://pan.baidu.com/s/111iPWcQ7baaC5b771ZQ3Aw?pwd=j7pq). Please download these files and put them in the same folder of code and then run '**test_example_koniq_*n*percent.py**' to make intra/cross dataset test for models trained on *n%* samples.
+   The pre-trained models can be downloaded from: [Pre-trained models](https://pan.baidu.com/s/111iPWcQ7baaC5b771ZQ3Aw?pwd=j7pq). Please download these files and put them in the same folder of code and then run '**test_koniq_rt*n*.py**' to make intra/cross dataset test for models trained on *n%* samples.
    
    
 ## For train:  
