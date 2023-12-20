@@ -21,11 +21,15 @@ The training code can be available at the 'training' folder.
 
 ## If you like this work, please cite:
 
-@ARTICLE{10355923,
+@ARTICLE{AL-IQA,
   author={Song, Tianshu and Li, Leida and Cheng, Deqiang and Chen, Pengfei and Wu, Jinjian},
+  
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  
   title={Active Learning-Based Sample Selection for Label-Efficient Blind Image Quality Assessment}, 
+  
   year={2023, Early Access},  
+  
   doi={10.1109/TCSVT.2023.3341611}}
 
   
